@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+	<channel>
+		
+		<title>Canal de unas risas con... noticias</title>
+		<link>https://unasrisasconprincipal.000webhostapp.com</link>
+		<description>Blog con tres noticias y tres audios</description>
+		
+		<item>
+			<title>Baches y escaleras</title>
+			<link>https://unasrisasconprincipal.000webhostapp.com/paginas/pagina1.html</link>
+			<description>"Calza un medio botín como los de ir de excursión y carga una sola bolsa de la compra: un detergente, galletas y algún tomate. Joan Collado es uno de los vecinos que desde hace décadas debe salir cada día a buscar la compra por fascículos, porque no puede cargar más de una bolsa por viaje".</description>
+		</item>
+		<item>
+			<title>Mamarazzis</title>
+			<link>https://unasrisasconprincipal.000webhostapp.com/paginas/pagina2.html</link>
+			<description>Las Mamarazzis han empezado el pódcast de este miércoles felicitando a todas las mujeres para celebrar el 8-M y preparándose para no faltar luego a la manifestación. Ha sido antes de entrar en la materia del día, con esa portada de la revista ‘¡Hola!’ luciendo entrevista con un Julio Iglesias defendiendo y dando la cara por Isabel Preysler.</description>
+		</item>
+		<item>
+			<title>VIRAL</title>
+			<link>https://unasrisasconprincipal.000webhostapp.com/paginas/pagina3.html</link>
+			<description>"Hoy día 8 de marzo de 2023 muchos han dedicado un espacio en sus redes para compartir y apoyar la lucha feminista en el Día Internacional de la 		Mujer. También muchas empresas han optado por teñirse de color morado para sumar a la causa".</description>
+		</item>
+		
+	</channel>
+</rss>
