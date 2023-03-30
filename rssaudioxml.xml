@@ -2,23 +2,27 @@
 <rss version="2.0">
 	<channel>
 		<title>Canal de unas risas con... audios</title>
-		<link>https://unasrisasconprincipal.000webhostapp.com</link>
+		<link>https://rssunasrisasconvaldezate.000webhostapp.com/</link>
 		<description>Blog con tres noticias y tres audios</description>
 		
 		<item>
 			<title>Abstract</title>
-			<link>https://unasrisasconprincipal.000webhostapp.com/audios/abstract.mp3</link>
+			<link>https://rssunasrisasconvaldezate.000webhostapp.com/</link>
 			<description>"Música Derrotar, Calma y Enfriar. De uso gratuito".</description>
+			<enclosure url="https://rssunasrisasconvaldezate.000webhostapp.com/audios/abstract.mp3" length="2963330" type="audio/mp3"/>
 		</item>
 		<item>
 			<title>Lifelike</title>
-			<link>https://unasrisasconprincipal.000webhostapp.com/audios/lifelike.mp3</link>
+			<link>https://rssunasrisasconvaldezate.000webhostapp.com/</link>
 			<description>"Música Tecnología, Resumen y Natural. De uso gratuito".</description>
+			<enclosure url="https://rssunasrisasconvaldezate.000webhostapp.com/audios/lifelike.mp3" length="4610089" type="audio/mp3"/>
+		</item>
 		</item>
 		<item>
 			<title>Mountain</title>
-			<link>https://unasrisasconprincipal.000webhostapp.com/audios/mountain.mp3</link>
+			<link>https://rssunasrisasconvaldezate.000webhostapp.com/</link>
 			<description>"Música Escenario, Montaña y Hermoso. De uso gratuito".</description>
+			<enclosure url="https://rssunasrisasconvaldezate.000webhostapp.com/audios/mountain.mp3" length="6684839" type="audio/mp3"/>
 		</item>	
 	</channel>
 </rss>
